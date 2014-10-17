@@ -39,12 +39,12 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 	4. login admin.php can upload the assets/images/rail_lunch.jpg and angry_bird.jpg
 
 =====
-![Alt text](assets/images/index.png)
+![index](assets/images/index.png)
 -----
-![Alt text](assets/images/order_1.png)
+![order](assets/images/order_1.png)
 -----
-![Alt text](assets/images/order_2.png)
+![order](assets/images/order_2.png)
 -----
-![Alt text](assets/images/admin.png)
+![admin](assets/images/admin.png)
 -----
 Site Link : http://launchbox.gopagoda.com/
