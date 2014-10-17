@@ -15,7 +15,7 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 
 ## Deploy
 1. Git
-	1. Sign up in Pagoda
+	1. Sign up in href(Pagoda, http://pagoda.com)
 	2. Choose the empty repo and give the project name 
 	br
 	```
@@ -25,22 +25,25 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 	```
 	git add .
 	```
-	-----
+	br
+
 	```
 	git commit -m "first commit"
 	```
-	-----
+	br
+
 	```
 	git push pagoda —all
 	```
-	-----
+	br
+
 
 2. SFTP
 	1. Check SFTP id / password / port / server
 	2. Fill in the Filezilla
 
 =====
-![Alt text](assets/images/index.png)
+src(assets/images/index.png)
 -----
 ![Alt text](assets/images/order_1.png)
 -----
