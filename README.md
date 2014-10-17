@@ -50,10 +50,8 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 ![admin](assets/images/admin.png)
 -----
 ## Site Link 
------
 http://launchbox.gopagoda.com/
 ## Image via 
------
 1. https://www.iconfinder.com/icons/40917/
 2. http://www.lagogarden.com/
 3. https://dbjdsnch130xu.cloudfront.net/
