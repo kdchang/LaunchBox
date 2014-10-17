@@ -15,16 +15,16 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 
 ## Deploy
 1. Git
-(1) Sign up Pagoda
-(2) Choose the empty repo and give the project name 
-	git init 
-	git add .
-	git commit -m "first commit"
-	git push pagoda —all
+	1. Sign up Pagoda
+	2. Choose the empty repo and give the project name 
+			git init 
+			git add .
+			git commit -m "first commit"
+			git push pagoda —all
 
 2. SFTP
-(1) Check SFTP id / password / port / server
-(2) Fill in the Filezilla
+	1. Check SFTP id / password / port / server
+	2. Fill in the Filezilla
 
 =====
 ![Alt text](assets/images/index.png)
