@@ -17,11 +17,11 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 1. Git
 	1. Sign up in Pagoda
 	2. Choose the empty repo and give the project name 
-	-----
+	br
 	```
 	git init 
 	```
-	-----
+	br
 	```
 	git add .
 	```
