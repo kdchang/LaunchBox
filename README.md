@@ -4,9 +4,11 @@ LaunchBox is an online meal reservation system build by PHP. This a tutorial for
 This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 
 ## Install
-1. git
+1. use git
+	```
 	git clone https://github.com/kdchang/LaunchBox.git
-
+	```
+	
 2. download zip
 
 ## Usage
