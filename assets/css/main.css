@@ -18,3 +18,8 @@ a:hover {
 	width: 150px;
 	height: 5%;
 }
+
+.about-icon {
+	display: block;
+	margin: 0 auto;
+}
