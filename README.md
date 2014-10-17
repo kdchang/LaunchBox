@@ -30,13 +30,13 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 	```
 	git push pagoda —all
 	```
-	4. login admin.php can upload the assets/images/rail_lunch.jpg and angry_bird.jpg
+	* login admin.php can upload the assets/images/rail_lunch.jpg and angry_bird.jpg
 
 2. SFTP
 	1. Check SFTP id / password / port / server.
 	2. Fill in the Filezilla and connect to the server.
 	3. Drag the file to the Code folder.
-	4. login admin.php can upload the assets/images/rail_lunch.jpg and angry_bird.jpg
+	* login admin.php can upload the assets/images/rail_lunch.jpg and angry_bird.jpg
 
 =====
 ![index](assets/images/index.png)
