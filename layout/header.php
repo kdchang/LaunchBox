@@ -14,7 +14,7 @@
     <div class="container">
         <div class="header">
             <ul class="nav nav-pills pull-right">
-                <li class="header-nav"><a href="index.php">首頁</a>
+                <li class="active header-nav"><a href="index.php">首頁</a>
                 </li>
                 <li class="header-nav"><a href="about.php">關於</a>
                 </li>
