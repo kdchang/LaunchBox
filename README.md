@@ -17,7 +17,6 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 1. Git
 	1. Sign up in [Pagodabox](https://pagodabox.com/)
 	2. Choose the empty repo and give the project name 
-	br
 	```
 	git init 
 	```
@@ -33,7 +32,8 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 
 2. SFTP
 	1. Check SFTP id / password / port / server
-	2. Fill in the Filezilla
+	2. Fill in the Filezilla and connect to the server
+	3. Drag the file to the Code folder
 
 =====
 ![Alt text](assets/images/index.png)
