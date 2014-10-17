@@ -1,5 +1,5 @@
         <div class="footer">
-            <p>&copy; Company 2014</p>
+            <p>&copy; LaunchBox Inc. since 2014</p>
         </div>
  	</div>
     <!-- /container -->

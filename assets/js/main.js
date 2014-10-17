@@ -1,5 +1,4 @@
-(function($) {
-    $.jPluginName = {
-
-        }
-})(jQuery);
+// Shorthand for $( document ).ready()
+$(function() {
+	  
+});
