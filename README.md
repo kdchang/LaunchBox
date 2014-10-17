@@ -1,5 +1,5 @@
 # LaunchBox Project 
-LaunchBox is an online meal reservation system build by PHP. This a tutorial for back-end newbie to learn how to build a website with Native PHP. 
+LaunchBox is an online meal reservation system build by PHP & MySQL. This a tutorial for back-end newbie to learn how to build a website with Native PHP. 
 
 This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 
@@ -8,7 +8,7 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 	```
 	git clone https://github.com/kdchang/LaunchBox.git
 	```
-	
+
 2. download zip
 
 ## Usage
