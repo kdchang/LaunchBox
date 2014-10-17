@@ -10,13 +10,14 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 2. download zip
 
 ## Usage
-1. open your server (WAMP/XAMPP/MAMP/LAMP)
-2. localhost:port (move the project file to the server folder)
+1. open your server (WAMP/XAMPP/MAMP/LAMP).
+2. localhost:port (move the project file to the server folder).
 
 ## Deploy
 1. Git
-	1. Sign up in [Pagodabox](https://pagodabox.com/)
-	2. Choose the empty repo and give the project name 
+	1. Sign up in [Pagodabox](https://pagodabox.com/).
+	2. Choose the empty repo and give the project name. 
+	3. turn on your terminal and move to your project.
 	```
 	git init 
 	```
@@ -29,11 +30,13 @@ This example code implement by KD.Chang(kdchang.cc[at]gmail.com)
 	```
 	git push pagoda —all
 	```
+	4. login admin.php can upload the assets/images/rail_lunch.jpg and angry_bird.jpg
 
 2. SFTP
-	1. Check SFTP id / password / port / server
-	2. Fill in the Filezilla and connect to the server
-	3. Drag the file to the Code folder
+	1. Check SFTP id / password / port / server.
+	2. Fill in the Filezilla and connect to the server.
+	3. Drag the file to the Code folder.
+	4. login admin.php can upload the assets/images/rail_lunch.jpg and angry_bird.jpg
 
 =====
 ![Alt text](assets/images/index.png)
