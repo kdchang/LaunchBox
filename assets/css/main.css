@@ -1,0 +1,20 @@
+.jumbotron {
+	background: url('../images/food.jpg');
+	background-size: 100% 355px;
+    background-repeat: no-repeat;
+	color: rgba(255, 255, 255, 0.9);
+}
+
+.meal-img {
+	width: 100%;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.thumbnails {
+	display: block;
+	width: 150px;
+	height: 5%;
+}
